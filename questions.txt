@@ -1,0 +1,87 @@
+4:Apa yang dimaksud dengan Laporan Debitur?
+5:Apa itu SLIK OJK?
+5:Apa yang dimaksud dengan LPIP?
+5:Siapa saja pihak yang wajib manyampaikan laporan debitur kepada OJK?
+6:Apa saja informasi debitur atau iDeb yang disampaikan pelapor wajib kepada OJK?
+7:Kapan pelapor baru diwajibkan untuk menyampaikan Laporan Debitur kepada OJK untuk pertama kalinya?
+9:Bagaimana pelapor dapat menyampaikan Laporan Debitur dan/atau koreksi Laporan Debitur?
+12:Apakah pihak lain boleh meminta informasi kredit debitur kepada OJK?
+13:Informasi debitur yang diterima oleh pihak lain hanya dapat digunakan untuk keperluan apa saja?
+23:Apa konsekuensi bagi pelapor yang meminta dan menggunakan Informasi Debitur tanpa mematuhi ketentuan yang ditetapkan?
+3:Siapa yang dimaksud dengan Otoritas Jasa Keuangan (OJK) dalam peraturan ini?
+3:Apa saja yang dimaksud dengan Lembaga Jasa Keuangan (LJK)?
+3:Bagaimana definisi Bank Umum dalam peraturan ini?
+3:Apa yang dimaksud dengan Bank Perkreditan Rakyat (BPR)?
+4:Siapa yang dimaksud dengan Pelapor dalam peraturan ini?
+4:Bagaimana Laporan Debitur diatur dalam peraturan ini?
+4:Apa yang dimaksud dengan Fasilitas Penyediaan Dana dalam peraturan ini?
+4:Bagaimana definisi Debitur dalam peraturan ini?
+5:Apa yang dimaksud dengan Sistem Layanan Informasi Keuangan (SLIK)?
+5:Siapa yang dimaksud dengan Lembaga Pengelola Informasi Perkreditan (LPIP)?
+6:Bagaimana pelaksanaan pelaporan debitur oleh Pelapor?
+6:Apa yang harus dicakup dalam Laporan Debitur?
+7:Bagaimana informasi keuangan Debitur harus dilaporkan?
+12:Siapa saja yang dapat meminta Informasi Debitur?
+12:Bagaimana Pelapor memberikan Informasi Debitur kepada pihak yang meminta?
+10:Apa yang harus dilakukan oleh Pelapor jika mengalami gangguan teknis saat menyampaikan Laporan Debitur?
+23:Bagaimana dengan sanksi jika Pelapor melanggar ketentuan dalam peraturan ini?
+15:Bagaimana dengan pengaduan Debitur mengenai ketidakakuratan Informasi Debitur?
+15:Siapa yang bertanggung jawab untuk menangani pengaduan Debitur?
+16:Bagaimana batas waktu untuk menyelesaikan pengaduan Debitur?
+16-17:Bagaimana dengan koreksi Laporan Debitur jika ditemukan kesalahan?
+22:Siapa yang dapat meminta sanksi administratif atas Pelapor yang melanggar ketentuan?
+24:Bagaimana dengan pelaksanaan pengenaan sanksi terhadap Pelapor baru?
+37:Apa yang dimaksud dengan "keadaan kahar (force majeure)" dalam peraturan ini?
+20:Bagaimana dengan keterlambatan dalam penyampaian Laporan Debitur?
+21:Bagaimana dengan pengenaan sanksi terhadap Pelapor yang tidak menyampaikan Laporan Debitur sama sekali?
+18:Siapa yang dapat menjadi pegawai pelaksana dalam penyampaian Laporan Debitur?
+14-15:Bagaimana dengan permintaan Informasi Debitur oleh pihak lain?
+42:Apa yang dimaksud dengan "prinsip pemisahan tugas (segregation of duties)" dalam peraturan ini?
+17:Apa yang harus dilakukan oleh Pelapor untuk menjamin keamanan dan ketersediaan data Laporan Debitur?
+23:Bagaimana sanksi yang berlaku untuk Pelapor yang melanggar ketentuan lebih dari satu dalam Peraturan ini?
+24:Apakah ada ketentuan peraliihan untuk Pelapor yang sudah ada sebelum Peraturan ini berlaku?
+19:Bagaimana ketentuan tentang pelaksanaan pengawasan oleh OJK terhadap Pelapor?
+26:Kapan mulai berlaku Peraturan OJK ini?
+4:Apa saja fasilitas penyediaan dana yang bisa diperoleh oleh debitur?
+8-9:Apa hal yang bisa menyebabkan OJK menetapkan tanggal akhir penyampaian laporan debitur selain tanggal biasanya?
+8:Kapan pelapor wajib menyampaikan koreksi jika kesalahan ditemukan oleh OJK?
+10:Saya berada di Jakarta Selatan. Ke mana saya harus menyampaikan laporan debitur secara offline?
+42:Apa yang dimaksud dengan prinsip pemisahan tugas pada pegawai pelaksana?
+2:Apa yang dimaksud dengan Data Pribadi?
+5:Data pribadi yang bersifat umum mencakup informasi apa saja?
+9:Apa ketentuan yang berlaku untuk pemasangan alat pemroses atau pengolah data visual di tempat umum dan fasilitas pelayanan publik?
+11:Apakah persetujuan yang sah menjadi dasar pemrosesan Data Pribadi?
+12:Apa jenis persetujuan yang digunakan dalam pemrosesan data pribadi?
+12:Apa konsekuensi dari klausul perjanjian yang meminta pemrosesan Data Pribadi tanpa persetujuan yang sah?
+14:Apa kewajiban Pengendali Data Pribadi terkait dengan pembaruan dan/atau perbaikan kesalahan atau ketidakakuratan Data Pribadi dan dalam waktu berapa lama permintaan tersebut harus diproses?
+15:Apa yang termasuk dalam pemrosesan Data Pribadi dengan potensi risiko tinggi?
+16:Apa kewajiban Pengendali Data Pribadi terhadap pihak-pihak yang terlibat dalam pemrosesan Data Pribadi?
+17:Dalam waktu berapa lama permitaan penundaan dan pembatasan pemrosesan Data Pribadi harus dilakukan oleh Pengendali Data Pribadi?
+2:Siapa yang dimaksud dengan Pengendali Data Pribadi?
+5:Apa hak yang dimiliki Subjek Data Pribadi?
+16:Bagaimana Pengendali Data Pribadi harus menjaga kerahasiaan Data Pribadi?
+8:Apa yang dimaksud dengan pemrosesan Data Pribadi?
+14:Bagaimana Pengendali Data Pribadi harus menangani permintaan akses dan penghapusan Data Pribadi oleh Subjek Data Pribadi?
+19:Bagaimana Pengendali Data Pribadi harus menangani kegagalan Pelindungan Data Pribadi?
+24:Apa yang dimaksud dengan transfer Data Pribadi?
+25:Bagaimana sanksi yang dikenai terhadap pelanggaran Undang-Undang Pelindungan Data Pribadi?
+26:Siapa yang bertanggung jawab untuk penyelenggaraan Pelindungan Data Pribadi?
+28:Bagaimana masyarakat dapat berperan dalam Pelindungan Data Pribadi?
+38:Apa yang dimaksud dengan data dan informasi kesehatan?
+14:Bagaimana Pengendali Data Pribadi harus memperbarui dan memperbaiki Data Pribadi?
+38:Apa yang dimaksud dengan data biometrik?
+13:Bagaimana Pengendali Data Pribadi harus menangani pemrosesan Data Pribadi anak?
+13:Bagaimana Pengendali Data Pribadi harus menangani pemrosesan Data Pribadi disabilitas?
+44:Apa yang dimaksud dengan pemrosesan Data Pribadi secara terbatas dan spesifik?
+16:Bagaimana Pengendali Data Pribadi harus melindungi Data Pribadi dari akses tidak sah?
+45:Apa yang dimaksud dengan penilaian dampak Pelindungan Data Pribadi?
+17:Bagaimana Pengendali Data Pribadi harus menangani permintaan penundaan atau pembatasan pemrosesan Data Pribadi?
+25:Apa yang dimaksud dengan sanksi administratif?
+18:Bagaimana Pengendali Data Pribadi harus menangani permintaan penghapusan Data Pribadi oleh Subjek Data Pribadi?
+17:Bagaimana Pengendali Data Pribadi harus menangani permintaan penarikan kembali persetujuan pemrosesan Data Pribadi oleh Subjek Data Pribadi?
+29:Apa yang dimaksud dengan pelaksanaan hukum acara dalam penyelesaian sengketa Pelindungan Data Pribadi?
+18:Bagaimana Pengendali Data Pribadi harus menangani permintaan pemusnahan Data Pribadi oleh Subjek Data Pribadi?
+46:Apa yang dimaksud dengan kegagalan Pelindungan Data Pribadi?
+36:Apa yang dimaksud dengan "asas pelindungan" dalam konteks Undang-Undang ini?
+37:Apa yang dimaksud dengan "asas kepastian hukum" dalam Undang-Undang ini?
+37:Apa yang dimaksud dengan "asas kepentingan umum" dalam Undang-Undang ini?

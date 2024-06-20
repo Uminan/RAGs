@@ -1,0 +1,938 @@
+Eval_score,comment,query,response,context
+3,"Feedback: The response correctly identifies the kantor pusat Pelapor as the party responsible for submitting the debt report to OJK. However, it fails to mention that all branches of the reporting entity are also required to be included in the debt report. Additionally, it does not provide information on the reporting requirements for other financial institutions that are not part of the OJK. [RESULT]: 3",Siapa saja pihak yang wajib manyampaikan laporan debitur kepada OJK?,"ChatCompletionChunk(id='3521', choices=[Choice(delta=ChoiceDelta(content='', function_call=None, role='assistant', tool_calls=None), finish_reason='stop', index=0, logprobs=None)], created=1718866184, model='qwen', object='chat.completion.chunk', system_fingerprint=None)","
+            ---- Source File: SAL_POJK_SLIK.pdf - Page 6 - Rank 0.9941298961639404 ----
+            - 7 -
+(3) Laporan Debitur dilaporkan oleh kantor pusat Pelapor
+kepada OJK.
+(4) Laporan Debitur sebagaimana dimaksud pada ayat (3)
+wajib mencakup informasi dari kantor pusat Pelapor
+dan seluruh kantor cabang.
+(5) Laporan Debitur sebagaimana dimaksud pada ayat (2)
+wajib disusun sesuai dengan pedoman penyusunan
+Laporan Debitur yang ditetapkan oleh OJK.
+(6) Ketentuan lebih lanjut mengenai cakupan Laporan
+Debitur sebagaimana dimaksud pada ayat (2) diatur
+dengan Surat Edaran OJK.
+Pasal 5
+(1) Informasi mengenai keuangan Debitur sebagaimana
+dimaksud dalam Pasal 4 ayat (2) huruf f dilaporkan
+dalam hal Debitur merupakan perusahaan atau pihak
+yang menerima Fasilitas Penyediaan Dana dari 1
+(satu) Pelapor dan/atau pembiayaan bersama lebih
+dari 1 (satu) Pelapor, dengan jumlah seluruh Fasilitas
+Penyediaan Dana paling sedikit sebesar
+Rp5.000.000.000,00 (lima miliar rupiah).
+(2) Pelapor melaporkan informasi mengenai keuangan
+Debitur sebagaimana dimaksud dalam Pasal 4 ayat (2)
+huruf f yang bersumber dari laporan keuangan
+tahunan Debitur terkini.
+(3) Pelapor melaporkan informasi mengenai keuangan
+Debitur sebagaimana dimaksud pada ayat (2) paling
+lambat pada Laporan Debitur bulan Juni tahun
+berikutnya.
+Pasal 6
+Pelapor baru wajib menyampaikan Laporan Debitur untuk
+pertama kali kepada OJK paling lambat tanggal 12 pada
+bulan keempat terhitung sejak ditetapkan sebagai pelapor
+oleh OJK.
+            ---- Source File: SAL_POJK_SLIK.pdf - Page 5 - Rank 0.9776633977890015 ----
+            - 6 -
+b. memiliki data yang diperlukan dalam SLIK; dan
+c. menandatangani perjanjian keikutsertaan dalam
+pelaporan dan permintaan Informasi Debitur
+melalui SLIK.
+(2) Lembaga lain bukan LJK dapat menjadi Pelapor
+setelah mendapat persetujuan OJK dengan memenuhi
+persyaratan:
+a. melakukan kegiatan penyediaan dana;
+b. memiliki infrastruktur yang memadai;
+c. memiliki data yang diperlukan dalam SLIK; dan
+d. menandatangani perjanjian keikutsertaan dalam
+pelaporan dan permintaan Informasi Debitur
+melalui SLIK.
+(3) Ketentuan lebih lanjut mengenai tata cara untuk
+menjadi Pelapor bagi Lembaga Jasa Keuangan
+Lainnya yang menyediakan layanan pinjam-meminjam
+uang berbasis teknologi informasi, lembaga keuangan
+mikro, dan lembaga lain bukan LJK sebagaimana
+dimaksud pada ayat (1) dan ayat (2) diatur dengan
+Surat Edaran OJK.
+BAB III
+LAPORAN DEBITUR DAN KOREKSI LAPORAN DEBITUR
+Pasal 4
+(1) Pelapor wajib menyampaikan Laporan Debitur kepada
+OJK secara lengkap, akurat, terkini, utuh, dan tepat
+waktu setiap bulan untuk posisi akhir bulan.
+(2) Laporan Debitur sebagaimana dimaksud pada ayat (1)
+wajib mencakup informasi mengenai:
+a. Debitur;
+b. Fasilitas Penyediaan Dana;
+c. agunan;
+d. penjamin;
+e. pengurus dan pemilik; dan
+f. keuangan Debitur.
+            ---- Source File: SAL_POJK_SLIK.pdf - Page 16 - Rank 0.9761193990707397 ----
+            - 17 -
+disebabkan oleh kesalahan Pelapor, Pelapor
+menyampaikan koreksi Laporan Debitur kepada OJK.
+(2) Koreksi Laporan Debitur kepada OJK sebagaimana
+dimaksud pada ayat (1) diperlakukan sebagai koreksi
+atas dasar temuan Pelapor sebagaimana dimaksud
+dalam Pasal 7 huruf a dan Pasal 8 ayat (2) huruf a.
+BAB IX
+KEBIJAKAN DAN PROSEDUR PELAPORAN, PERMINTAAN
+INFORMASI DEBITUR, DAN PENYELESAIAN PENGADUAN
+INFORMASI DEBITUR
+Pasal 27
+Pelapor wajib memiliki kebijakan dan prosedur tertulis
+mengenai penyampaian Laporan Debitur dan/atau koreksi
+Laporan Debitur yang paling sedikit mencakup:
+a. wewenang dan tanggung jawab pegawai yang
+melakukan verifikasi dan menyampaikan Laporan
+Debitur dan/atau koreksi Laporan Debitur kepada
+OJK;
+b. langkah yang dilakukan dalam rangka pemeliharaan
+dan pengamanan sistem dan data;
+c. langkah yang dilakukan dalam rangka memastikan
+kelengkapan, keakuratan, kekinian, keutuhan, dan
+ketepatan waktu Laporan Debitur dan/atau koreksi
+Laporan Debitur;
+d. langkah yang dilakukan dalam hal terjadi gangguan
+atau keadaan kahar (force majeure) untuk memastikan
+kesinambungan penyampaian Laporan Debitur
+dan/atau koreksi Laporan Debitur kepada OJK serta
+wewenang dan tanggung jawab pegawai yang
+ditunjuk.
+Pasal 28
+Pelapor wajib memiliki kebijakan dan prosedur tertulis
+mengenai permintaan dan penggunaan Informasi Debitur
+yang paling sedikit mencakup:"
+4,"Feedback: The response is derived from the given context and provides a detailed explanation of how Laporan Debitur is regulated in the document. It covers the points mentioned in the context and provides additional information based on the context, such as the specific conditions for reporting the financial information of the debtor. However, it does not introduce any external knowledge or facts not mentioned in the context.
+[RESULT]: 4",Bagaimana Laporan Debitur diatur dalam peraturan ini?,"ChatCompletionChunk(id='3531', choices=[Choice(delta=ChoiceDelta(content='', function_call=None, role='assistant', tool_calls=None), finish_reason='stop', index=0, logprobs=None)], created=1718866204, model='qwen', object='chat.completion.chunk', system_fingerprint=None)","
+            ---- Source File: SAL_POJK_SLIK.pdf - Page 6 - Rank 0.9772599935531616 ----
+            - 7 -
+(3) Laporan Debitur dilaporkan oleh kantor pusat Pelapor
+kepada OJK.
+(4) Laporan Debitur sebagaimana dimaksud pada ayat (3)
+wajib mencakup informasi dari kantor pusat Pelapor
+dan seluruh kantor cabang.
+(5) Laporan Debitur sebagaimana dimaksud pada ayat (2)
+wajib disusun sesuai dengan pedoman penyusunan
+Laporan Debitur yang ditetapkan oleh OJK.
+(6) Ketentuan lebih lanjut mengenai cakupan Laporan
+Debitur sebagaimana dimaksud pada ayat (2) diatur
+dengan Surat Edaran OJK.
+Pasal 5
+(1) Informasi mengenai keuangan Debitur sebagaimana
+dimaksud dalam Pasal 4 ayat (2) huruf f dilaporkan
+dalam hal Debitur merupakan perusahaan atau pihak
+yang menerima Fasilitas Penyediaan Dana dari 1
+(satu) Pelapor dan/atau pembiayaan bersama lebih
+dari 1 (satu) Pelapor, dengan jumlah seluruh Fasilitas
+Penyediaan Dana paling sedikit sebesar
+Rp5.000.000.000,00 (lima miliar rupiah).
+(2) Pelapor melaporkan informasi mengenai keuangan
+Debitur sebagaimana dimaksud dalam Pasal 4 ayat (2)
+huruf f yang bersumber dari laporan keuangan
+tahunan Debitur terkini.
+(3) Pelapor melaporkan informasi mengenai keuangan
+Debitur sebagaimana dimaksud pada ayat (2) paling
+lambat pada Laporan Debitur bulan Juni tahun
+berikutnya.
+Pasal 6
+Pelapor baru wajib menyampaikan Laporan Debitur untuk
+pertama kali kepada OJK paling lambat tanggal 12 pada
+bulan keempat terhitung sejak ditetapkan sebagai pelapor
+oleh OJK.
+            ---- Source File: SAL_POJK_SLIK.pdf - Page 47 - Rank 0.9633233547210693 ----
+            - 20 -
+Pasal 38
+Ayat (1)
+Cukup jelas.
+Ayat (2)
+Cukup jelas.
+Ayat (3)
+Cukup jelas.
+Ayat (4)
+Laporan Debitur bulan Juni 2017 dilaporkan paling lambat
+tanggal 19 Juli 2017.
+Laporan Debitur bulan Juli 2017 dilaporkan paling lambat
+tanggal 22 Agustus 2017.
+Laporan Debitur secara luring (offline) bulan Juli 2017
+dilaporkan paling lambat tanggal 25 Agustus 2017.
+Pasal 39
+Sampai dengan tanggal 31 Desember 2017, kewajiban pelaporan
+mengikuti ketentuan sebagaimana diatur dalam Peraturan Bank
+Indonesia Nomor 9/14/PBI/2007 tanggal 30 November 2007
+tentang Sistem Informasi Debitur sebagaimana telah diubah
+dengan Peraturan Bank Indonesia Nomor 18/21/PBI/2016
+tentang Perubahan atas Peraturan Bank Indonesia Nomor
+9/14/PBI/2007 tentang Sistem Informasi Debitur dan Peraturan
+OJK ini.
+Pasal 40
+Cukup jelas.
+Pasal 41
+Cukup jelas.
+TAMBAHAN LEMBARAN NEGARA REPUBLIK INDONESIA NOMOR 6049
+            ---- Source File: SAL_POJK_SLIK.pdf - Page 1 - Rank 0.7898507118225098 ----
+            - 2 -
+c. bahwa dalam rangka pengembangan sistem layanan
+informasi keuangan yang andal, komprehensif, dan
+terintegrasi di sektor jasa keuangan, dilakukan
+implementasi secara bertahap dimulai dengan layanan
+informasi tentang debitur;
+d. bahwa berdasarkan pertimbangan sebagaimana
+dimaksud dalam huruf a sampai dengan huruf c,
+perlu menetapkan Peraturan Otoritas Jasa Keuangan
+tentang Pelaporan dan Permintaan Informasi Debitur
+Melalui Sistem Layanan Informasi Keuangan;
+Mengingat : 1. Undang-Undang Nomor 7 Tahun 1992 tentang
+Perbankan (Lembaran Negara Republik Indonesia
+Tahun 1992 Nomor 31, Tambahan Lembaran Negara
+Republik Indonesia Nomor 3472) sebagaimana telah
+diubah dengan Undang-Undang Nomor 10
+Tahun 1998 tentang Perubahan atas Undang-Undang
+Nomor 7 Tahun 1992 tentang Perbankan (Lembaran
+Negara Republik Indonesia Tahun 1998 Nomor 182,
+Tambahan Lembaran Negara Republik Indonesia
+Nomor 3790);
+2. Undang-Undang Nomor 21 Tahun 2008 tentang
+Perbankan Syariah (Lembaran Negara Republik
+Indonesia Tahun 2008 Nomor 94, Tambahan
+Lembaran Negara Republik Indonesia Nomor 4867);
+3. Undang-Undang Nomor 21 Tahun 2011 tentang
+Otoritas Jasa Keuangan (Lembaran Negara Republik
+Indonesia Tahun 2011 Nomor 111, Tambahan
+Lembaran Negara Republik Indonesia Nomor 5253);
+MEMUTUSKAN:
+Menetapkan : PERATURAN OTORITAS JASA KEUANGAN TENTANG
+PELAPORAN DAN PERMINTAAN INFORMASI DEBITUR
+MELALUI SISTEM LAYANAN INFORMASI KEUANGAN."
+3,"Feedback: The response correctly identifies some of the information that falls under data pribadi yang bersifat umum based on the given context. However, it misses out on other details mentioned in the context such as 'd. status perkawinan; dan/ atau f. Data Pribadi yang dikombinasikan untuk mengidentifikasi seseorang.' The response also does not mention the inclusion of 'nama lengkap' which is explicitly mentioned in the context. Therefore, the response is somewhat correct, accurate, and factual.
+[RESULT]: 3",Data pribadi yang bersifat umum mencakup informasi apa saja?,"ChatCompletionChunk(id='3553', choices=[Choice(delta=ChoiceDelta(content='', function_call=None, role='assistant', tool_calls=None), finish_reason='stop', index=0, logprobs=None)], created=1718866256, model='qwen', object='chat.completion.chunk', system_fingerprint=None)","
+            ---- Source File: 2022uu27.pdf - Page 4 - Rank 0.9771341681480408 ----
+            PRESIDEN
+REPI.JBLIK INDONESIA
+-5-
+l2l Data Pribadi yang bersifat spesifik sebagaimana
+dimaksud pada ayat (l) huruf a meliputi:
+. a. data dan informasi kesehatan;
+b.
+data biometrik;
+c.
+data genetika;
+d.
+catatan kejahatan;
+e.
+data anak;
+f. data ker.rangan pribadi; dan/ atau
+g.
+data lainnya sesuai dengan ketentuan peraturan
+perundang-undangan.
+(3) Data Pribadi yang bersifat umum sebagaimana
+dimaksud pada ayat (l) huruf b meliputi:
+a.
+nama lengkap;
+b. jenis kelamin;
+c.
+d. agama;
+e. status perkawinan; dan/ atau
+f. Data Pribadi yang dikombinasikan untuk
+mengidentifikasi seseorang.
+BAB IV
+HAK SUBJEK DATA PRIBADI
+Pasal 5
+Subjek Data Pribadi berhak mendapatkan Informasi
+tentang kejelasan identitas, dasar kepentingan hukum,
+tujuan permintaan dan penggu.naan Data Pribadi, dan
+akuntabilitas pihak yang meminta Data Pribadi.
+Pasal 6
+Subjek Data Pribadi berhak melengkapi, memperbarui,
+dan/atau memperbaiki kesalahan dan/atau
+ketidakakuratan Data Pribadi tentang dirinya sesuai
+dengan tujuan pemrosesan Data Pribadi.
+7.
+Pasal .
+.
+SK No 155206 A
+            ---- Source File: 2022uu27.pdf - Page 1 - Rank 0.5476083159446716 ----
+            FRESIDEN
+REPUBLIK INDONESIA
+2-
+Dengan Persetujuan Bersama
+DEWAN PERWAKILAN RAKYAT REPUBLIK INDONESIA
+dan
+PRESIDEN REPUBLIK INDONESIA
+MEMUTUSKAN:
+Menetapkan UNDANG-UNDANG TENTANG PELINDUNGAN DATA
+PRIBADI.
+BAB I
+KETENTUAN UMUM
+Pasal I
+Dalam Undang-Undang ini yang dimaksud dengan:
+1.
+Data Pribadi adalah data tentang ora.ng perseorangan
+yang teridentifikasi atau dapat diidentifikasi secara
+tersendiri atau dikombinasi dengan informasi lainnya
+baik secara langsung maupun tidak langsung melalui
+sistem elektronik atau nonelektronik.
+2. Pelindungan Data Pribadi adalah keseluruhan upaya
+untuk melindungi Data Pribadi dalam rangkaian
+pemrosesan Data Fribadi guna menjamin hak
+konstitusional subjek Data Pribadi.
+3. Informasi adalah keterangan, pernyataan, gagasan,
+dan tanda-tanda yang mengandung nilai, makna, dan
+pesan, baik data, fakta, maupun penjelasannya yang
+dapat dilihat, didengar, dan dibaca yang disajikan
+dalam berbagai kemasan dan format sesuai dengan
+perkembangan teknologi informasi dan komunikasi
+secara elektronik ataupun nonelektronik.
+4. Pengendali Data Pribadi adalah setiap orang, badan
+publik, dan organisasi internasional yang bertindak
+. sendiri-sendiri atau bersama-sama dalam menentukan
+tujuan dan melakukan kendali pemrosesan Data
+Pribadi.
+5. Prosesor . .
+.
+SK No 017000 A
+            ---- Source File: 2022uu27.pdf - Page 36 - Rank 0.5406705737113953 ----
+            PRESIDEN
+REPUBLIK INDONESIA
+-3-
+Huruf b
+Yang dimaksud dengan ""asas kepastian hukum"" adalah bahwa
+setiap pemrosesan Data Pribadi dilakukan berdasarkan
+landasan hukum untuk mewujudkan Pelindungan Data Pribadi
+serta segala sesuatu yang mendukung
+sehingga mendapatkan pengakuan hukum di dalam dan di luar
+pengadilan.
+Huruf c
+Yang dimaksud dengan ""asas kepentingan umum"" adalah
+bahwa dalam Pelindungan Data Pribadi harus
+memperhatikan kepentingan umum atau masyarakat secara
+luas. Kepentingan umum tersebut antara lain
+negara dan pertahanan dan keamanan
+nasional.
+Huruf d
+Yang dimaksud dengan ""asas kemanfaatan"" adalah bahwa
+pengaturan Pelindungan Data Pribadi harus bermanfaat bagi
+kepentingan nasional, khususnya dalam mewujudkan cita-cita
+kesej a-hteraan umum.
+Huruf e
+Yang dimaksud dengan ""asas kehati-hatian"" adalah bahwa para
+pihak yang terkait dengan perrrosesan dan pengawasan Data
+Pribadi harus memperhatikan segenap aspek yang berpotensi
+mendatangkan kerugian.
+f
+Huruf
+oasas
+Yang dimaksud dengan keseimbangan"" adalah sebagai
+upaya Pelindungan Data Pribadi untuk menyeimbangkan antara
+hak atas Data Pribadi di satu pihak dengan hak negara yang sah
+berdasarkan kepentingan umum.
+Huruf g
+Yang dimaksud dengan ""asas pertanggungiawaban"" adalah
+bahwa semua pihak yang terkait dengan pemrosesan dan
+pengawasan Data Pribadi bertindak secara bertanggung jawab
+sehingga mampu menjamin keseimbangan hak dan kewajiban
+para pihak yang terkait termasuk Subjek Data Pribadi.
+Hurufh
+Yang dimaksud dengan ""asas kerahasiaan"" adalah bahwa Data
+Pribadi terlindungi dari pihak yang tidak berhak dan/atau dari
+kegiatan pemrosesan Data Pribadi yang tidak sah.
+4...
+Pasal
+SK No 155238 A"
+4,"Feedback: The response correctly identifies the term ""Pengendali Data Pribadi"" as referring to an individual or entity responsible for managing and overseeing personal data, based on the provided context. It accurately cites the relevant passage from the document. However, it could be improved by providing a more detailed explanation of the responsibilities and roles of the ""Pengendali Data Pribadi"" as described in the context.
+[RESULT]: 4",Siapa yang dimaksud dengan Pengendali Data Pribadi?,"ChatCompletionChunk(id='3561', choices=[Choice(delta=ChoiceDelta(content='', function_call=None, role='assistant', tool_calls=None), finish_reason='stop', index=0, logprobs=None)], created=1718866272, model='qwen', object='chat.completion.chunk', system_fingerprint=None)","
+            ---- Source File: 2022uu27.pdf - Page 21 - Rank 0.9767419695854187 ----
+            PRESIDEN
+REPUBLIK INDONESIA
+-22-
+Bagian Keempat
+Pejabat atau Petugas yang Melaksanakan
+Fungsi Pelindungan Data Pribadi
+Pasal 53
+(1) Pengendali Data Pribadi dan Prosesor Data Pribadi
+wajib menunjuk pejabat atau petugas yang
+melaksanakan fungsi Pelindungan Data Pribadi dalam
+hal:
+a. pemros(:san Data Pribadi untuk kepentingan
+pelayanan publik;
+b. kegiatan inti Pengendali Data Pribadi memiliki
+sifat, ruang lingkup, dan/ atau tujuan yang
+memerlukan pemantauan secara teratur dan
+' sistematis atas Data Pribadi dengan skala besar;
+dan
+c. kegiatan inti Pengendali Data Pribadi terdiri dari
+pemrosesan Data Pribadi dalam skala besar untuk
+Data Pribadi yang bersifat spesifik dan/ atau Data
+Pribadi yang berkaitan dengan tindak pidana.
+(2) Pejabat atau petugas yang melaksanakan fungsi
+Pelindungan Data Pribadi sebagaimana dimaksud
+pada ayat (1) ditunjuk berdasarkan profesionalitas,
+pengetahuan mengenai hukum, praktik Pelindungan
+Data Pribadi, dan kemampuan untuk memenuhi
+tugas-tugasnya.
+(3). Pejabat atau petugas yang melaksanakan fungsi
+Pelindungan Data Pribadi sebagaimana dimaksud
+pada ayat (2) dapat berasal dari dalam dan/ atau luar
+Pengendali Data Pribadi atau Prosesor Data Pribadi.
+Pasal 54
+(1) Pejabat atau petugas yang melaksanakan fungsi
+Pelindungan Data Pribadi memiliki tugas paling
+sedikit:
+a menginformasikan
+SK No 155223 A
+            ---- Source File: 2022uu27.pdf - Page 15 - Rank 0.9444761872291565 ----
+            PRESIDEN
+REPUBLIK INDONESIA
+-16-
+a. penyusunan dan penerapan langkah teknis
+' operasional untuk melindungi Data Pribadi dari
+gangguan pemrosesan Data Pribadi yang bertentangan
+dengan ketentuan peraturan perundang-undangan;
+dan
+b. penentuan tingkat keamanan Data Pribadi dengan
+memperhatikan sifat dan risiko dari Data Pribadi yang
+harus dilindungi dalam pemrosesan Data Pribadi.
+Pasal 36
+Dalam melakukan pemrosesan Data Pribadi, Pengendali
+Data Pribadi wajib menjaga kerahasiaan Data Pribadi.
+Pasal 37
+Pengendali Data Pribadi wajib melakukan pengawasan
+terhadap setiap pihak yang terlibat dalam pemrosesan
+Data Pribadi di bawah kendali Pengendali Data Pribadi.
+Pasal 38
+Pengendali Data Pribadi wajib melindungi Data Pribadi
+dari pemrosesan yang tidak sah.
+Pasal 39
+(1) Pengendali Data Pribadi wajib mencegah Data Pribadi
+diakses secara tidak sah.
+(2) Pencegahan sebagaimana dimaksud pada ayat (1)
+dilakukan dengan sistem keamanan
+terhadap Data Pribadi yang diproses dan/ atau
+memproses Data Pribadi sistem
+elektronik secara andal, aman, dan bertanggung
+jawab.
+(3) Pencegahan sebagaimana dimaksud pada ayat (21
+dilakukan sesuai dengan ketentuan peraturan
+perundang-undangan.
+40...
+Pasal
+SK No l552l7A
+            ---- Source File: 2022uu27.pdf - Page 26 - Rank 0.8611408472061157 ----
+            PRESIDEN
+REPUBLIK INDONESIA
+-27-
+b. melakukan pengawasan terhadap kepatuhan
+Pengendali Data Pribadi;
+c. menjatuhkan sanksi administratif atas pelanggaran
+Pelindungan Data Pribadi yang dilakukan Pengendali
+Data Pribadi dan/atau Prosesor Data Pribadi;
+d.
+membantu aparat penegak hukum dalam penanganan
+dugaan tindak pidana Data Pribadi sebagaimana
+dimaksud dalam Undang-Undang ini;
+e. bekerja sama dengan lembaga Pelindungan Data
+Pribadi negara lain dalam rangka penyelesaian dugaan
+. pelanggaran Pelindungan Data Pribadi lintas negara;
+f. melakukan penilaian terhadap
+pemenuhan
+persyaratan transfer Data Pribadi ke luar wilayah
+hukum Negara Republik Indonesia;
+g.
+memberikan perintah dalam rangka tindak lanjut hasil
+pengawasan kepada Pengendali Data Pribadi dan/ atau
+Prosesor Data Pribadi;
+h. melakukan publikasi hasil pelaksanaan pengawasan
+Pelindungan Data Pribadi sesuai dengan ketentuan
+peraturan perundang-undangan
+;
+i. menerima aduan dan/atau laporan tentang dugaan
+terjadinya pelanggaran Pelindungan Data Pribadi;
+j.
+melakukan dan atas
+pengaduan, laporan, dan/atau hasil pengawasan
+terhadap dugaan terjadinya pelanggaran Pelindungan
+Data Pribadi;
+k.
+memanggil dan menghadirkan Setiap Orang dan/ atau
+Badan Publik yang terkait dengan dugaan pelanggaran
+Pelindungan Data Pribadi;
+l. meminta keterangan, data, Informasi, dan dokumen
+dari Setiap Orang dan/ atau Badan Publik terkait
+dugaan pelanggaran Pelindungan Data Pribadi;
+m. memanggil dan menghadirkan ahli yang diperlukan
+dalam pemeriksaan dan penelusuran terkait dugaan
+pelanggaran Pelindungan Data Pribadi;
+n. melakukan . .
+.
+SK No 155228 A"
+2,"Feedback: The response introduces additional knowledge beyond the context provided, discussing the role of the public in terms of education, training, advocacy, specialization, and monitoring, which is not explicitly mentioned in the context. It also provides a more detailed explanation of how the public can contribute to data privacy protection, which is not directly derived from the given context.
+[RESULT]: 2",Bagaimana masyarakat dapat berperan dalam Pelindungan Data Pribadi?,"ChatCompletionChunk(id='3568', choices=[Choice(delta=ChoiceDelta(content='', function_call=None, role='assistant', tool_calls=None), finish_reason='stop', index=0, logprobs=None)], created=1718866290, model='qwen', object='chat.completion.chunk', system_fingerprint=None)","
+            ---- Source File: 2022uu27.pdf - Page 27 - Rank 0.9901425838470459 ----
+            PRESIDEN
+REPUELIK INDONESIA
+-24-
+n melakukan pemeriksaan dan penelusuran terhadap
+sistem elektronik, sarana, ruang, dan/ atau tempat
+yang digunakan Pengendali Data Pribadi dan/atau
+Prosesor Data Pribadi, termasuk memperoleh akses
+terhadap data dan/atau menunjuk pihak ketiga; dan
+o meminta bantuan hukum kepada kejaksaan dalam
+penyelesaian sengketa Pelindungan Data Pribadi.
+Pasal 61
+Ketentuan mengenai tata cara pelaksanaan wewenang
+lembaga sebagaimana dimaksud dalam Pa6al 60 diatur
+dalam Peraturan Pemerintah.
+BAB X
+KERJA SAMA INTERNASIONAL
+Pasal 62
+(1) Kerja sama internasional dilakukan oleh Pemerintah
+dengan pemerintah negara lain atau Organisasi
+Internasional terkait dengan Pelindungan Data
+Pribadi.
+(2) Kerja sama internasional dalam rangka pelaksanaan
+Undang-Undang ini dilaksanakan sesuai dengan
+ketentuan peraturan perundang-undangan dan
+prinsip hukum internasional.
+BAB xI
+PARTISIPASI MASYARAKAT
+Pasal 63
+(1) Masyarakat dapat berperan baik secara langsung
+maupun tidak langsung dalam mendukung
+terselenggaranya Pelindungan Data Pribadi.
+(2) Pelaksanaan peran sebagaimana dimaksud pada
+ayat (1) dapat dilakukan melalui pendidikan,
+pelatihan, advokasi, sssialis4si, dan/ atau pengawasan
+sesuai dengan ketentuan peraturan perundang-
+undangan.
+...
+BABxII
+SK No 155229 A
+            ---- Source File: 2022uu27.pdf - Page 35 - Rank 0.9898249506950378 ----
+            PRESIDEN
+ELIK INDONESIA
+-2-
+Perumusan aturan tentang Pelindungan Data Pribadi dapat dipahami
+karena adanya kebutuhan untuk melindungi hak individu di dalam
+masyarakat sehubungan dengan pemrosesan Data Pribadi baik yang
+dilakukan secara elektronik dan nonelektronik menggunakan perangkat olah
+data. Pelindungan yang memadai atas Data Pribadi akan mampu memberikan
+kepercayaan masyarakat untuk menyediakan Data Pribadi guna berbagai
+kepentingan masyarakat yang lebih besar tanpa disalahgunakan atau
+melanggar hak pribadinya. Dengan demikian, pengaturan ini akan
+menciptakan keseimbangan antara hak individu dan masyarakat yang
+diwakili kepentingannya oleh negara. Pengaturan tentang Pelindungan Data
+Pribadi ini akan memberikan kontribusi yang besar terhadap terciptanya
+ketertiban dan kemajuan dalam masyarakat informasi.
+Untuk mengurangi tumpang tindih ketentuan tentang Pelindungan Data
+Pribadi maka pada dasarnya ketentuan dalam Undang-Undang ini adalah
+standar Pelindungan Data Pribadi secara urnurn, baik yang diproses sebagian
+atau keseluruhan dengan cara elektronik dan nonelektronik, dimana masing-
+masing sektor dapat menerapkan Pelindungan Data Pribadi sesuai
+karakteristik sektor yang Pengaturan Data
+Pribadi bertujuan antara lain melindungi dan menjamin hak dasar warga
+negara terkait dengan pelindungan diri pribadi, menjamin masyarakat untuk
+mendapatkan pelayanan dari Korporasi, Badan Publik, Organisasi
+Internasional, dan Pemerintah, mendorong pertumbuhan ekonomi digital dan
+industri teknologi informasi dan komunikasi, dan mendukung peningkatan
+daya saing industri dalam negeri.
+II.
+PASALDEMIPASAL
+Pasal I
+Cukupjelas.
+Pasal 2
+Cukupjelas.
+Pasal 3
+Hurufa
+Yang dimaksud dengan ""asas pelindungan"" adalah bahwa setiap
+pemrosesErn Data Pribadi dilakukan dengan memberikan
+pelindungan kepada Subjek Data Pribadi atas Data Pribadinya
+dan Data Pribadi tersebut agar tidak disalahgunakan.
+Hurufb. .
+.
+SK No 155237 A
+            ---- Source File: 2022uu27.pdf - Page 34 - Rank 0.8037130832672119 ----
+            PRESlDEN
+REPUBLIK INDONESIA
+PENJEI,ASAN
+ATAS
+UNDANG-UNDANG REPUBUK INDONESI,A
+NOMOR 27 TAHVN 2022
+TET\ITANG
+PELINDUNGAN DATA PRIBADI
+I UMUM
+Ferkembangan teknologi informasi dan komurikasi yang melaju dengan
+pesat telah menimbulkan berbagai peluang dan tantangan. Teknologi informasi
+memunglinkan manusia untuk saling terhubung tanpa mengenal batas wilayah
+sehingga
+negara salah satu faktor pendorong globalisasi. Berbagai
+selrtor kehidupan telah memanfaatkan sistem teknologi informasi, seperti
+peryrelengaraan ele&onic @mmet@ (e-ammere) dalam sektor
+perUagangan/bisnis, eledrunic dtution (edtt@lion) daJarla bidang perdidikan,
+eledronic hmlth (e-leaftfl dalam bidang kesehatan, ele&onic gouqrunent
+(egovenunent) dalam bidang pemerintahan, serta teknologi informasi yang
+dimanfaatkan dalam bidang lainnya. Pemanfaatan teknologi informasi tersebut
+mengakibatkan Data Pribadi seseorang sanga.t mudah untuk dikumpulkan dan
+dipindahkan dari sahr pihak ke phak lain tanpa sepengetatnran Subjek Data
+Pribadi, sehingga mengancam hak konstitusional Subjek Data Pribadi.
+Felindungan Data Pribadi masuk dalam pelindungan hak asasi manusia
+Dengan demikian, pengaturan menyangkut Data Pribadi merupakan manifestasi
+pengakuan dan pelindungan atas hak dasar manusia. Keberadaan suatu
+Undang-Undang tentang Pelindungan Data Pribadi suahr
+keharusan yang tidak dapat ditunda lagl karena sanga.t mendesak bagi berbagai
+kepentingan nasional. Fergaulan intemasional Indonesia turut menuntut
+adanya Felindungan Data Pribadi. Felindungan tersebut dapa.t memperlancar
+perdagangan, industri, dan investasi yang bersifat transnasional.
+Pribadi
+Undang-Undang tentang Felindungan Data amanat
+dari Pasal2SG ayat (1) Undang-Undang Dasar Negara Republik Indonesia Tahun
+1945 yang menyatakan bahwa, ""Setiap orang berhak atas perlindungan diri
+pribadi, keluarga, kehormatan, martabat, dan harta benda yang di bawah
+kekuasaannya, serta berhak atas rasa aman dan pelindungan dari ancaman"
+4,"Feedback: The response is mostly correct, accurate, and factual. It correctly identifies the information that the lender (pelapor) is required to provide to OJK in the debt report. However, it does not explicitly mention that the lender must report the information according to the guidelines set by OJK, as stated in the context. The response also does not include the specific details about the reporting frequency and deadlines for new lenders, which are mentioned in the context. [RESULT]: 4",Apa saja informasi debitur atau iDeb yang disampaikan pelapor wajib kepada OJK?,"ChatCompletionChunk(id='3588', choices=[Choice(delta=ChoiceDelta(content='', function_call=None, role='assistant', tool_calls=None), finish_reason='stop', index=0, logprobs=None)], created=1718866333, model='qwen', object='chat.completion.chunk', system_fingerprint=None)","
+            ---- Source File: SAL_POJK_SLIK.pdf - Page 6 - Rank 0.989733874797821 ----
+            - 7 -
+(3) Laporan Debitur dilaporkan oleh kantor pusat Pelapor
+kepada OJK.
+(4) Laporan Debitur sebagaimana dimaksud pada ayat (3)
+wajib mencakup informasi dari kantor pusat Pelapor
+dan seluruh kantor cabang.
+(5) Laporan Debitur sebagaimana dimaksud pada ayat (2)
+wajib disusun sesuai dengan pedoman penyusunan
+Laporan Debitur yang ditetapkan oleh OJK.
+(6) Ketentuan lebih lanjut mengenai cakupan Laporan
+Debitur sebagaimana dimaksud pada ayat (2) diatur
+dengan Surat Edaran OJK.
+Pasal 5
+(1) Informasi mengenai keuangan Debitur sebagaimana
+dimaksud dalam Pasal 4 ayat (2) huruf f dilaporkan
+dalam hal Debitur merupakan perusahaan atau pihak
+yang menerima Fasilitas Penyediaan Dana dari 1
+(satu) Pelapor dan/atau pembiayaan bersama lebih
+dari 1 (satu) Pelapor, dengan jumlah seluruh Fasilitas
+Penyediaan Dana paling sedikit sebesar
+Rp5.000.000.000,00 (lima miliar rupiah).
+(2) Pelapor melaporkan informasi mengenai keuangan
+Debitur sebagaimana dimaksud dalam Pasal 4 ayat (2)
+huruf f yang bersumber dari laporan keuangan
+tahunan Debitur terkini.
+(3) Pelapor melaporkan informasi mengenai keuangan
+Debitur sebagaimana dimaksud pada ayat (2) paling
+lambat pada Laporan Debitur bulan Juni tahun
+berikutnya.
+Pasal 6
+Pelapor baru wajib menyampaikan Laporan Debitur untuk
+pertama kali kepada OJK paling lambat tanggal 12 pada
+bulan keempat terhitung sejak ditetapkan sebagai pelapor
+oleh OJK.
+            ---- Source File: SAL_POJK_SLIK.pdf - Page 5 - Rank 0.9827570915222168 ----
+            - 6 -
+b. memiliki data yang diperlukan dalam SLIK; dan
+c. menandatangani perjanjian keikutsertaan dalam
+pelaporan dan permintaan Informasi Debitur
+melalui SLIK.
+(2) Lembaga lain bukan LJK dapat menjadi Pelapor
+setelah mendapat persetujuan OJK dengan memenuhi
+persyaratan:
+a. melakukan kegiatan penyediaan dana;
+b. memiliki infrastruktur yang memadai;
+c. memiliki data yang diperlukan dalam SLIK; dan
+d. menandatangani perjanjian keikutsertaan dalam
+pelaporan dan permintaan Informasi Debitur
+melalui SLIK.
+(3) Ketentuan lebih lanjut mengenai tata cara untuk
+menjadi Pelapor bagi Lembaga Jasa Keuangan
+Lainnya yang menyediakan layanan pinjam-meminjam
+uang berbasis teknologi informasi, lembaga keuangan
+mikro, dan lembaga lain bukan LJK sebagaimana
+dimaksud pada ayat (1) dan ayat (2) diatur dengan
+Surat Edaran OJK.
+BAB III
+LAPORAN DEBITUR DAN KOREKSI LAPORAN DEBITUR
+Pasal 4
+(1) Pelapor wajib menyampaikan Laporan Debitur kepada
+OJK secara lengkap, akurat, terkini, utuh, dan tepat
+waktu setiap bulan untuk posisi akhir bulan.
+(2) Laporan Debitur sebagaimana dimaksud pada ayat (1)
+wajib mencakup informasi mengenai:
+a. Debitur;
+b. Fasilitas Penyediaan Dana;
+c. agunan;
+d. penjamin;
+e. pengurus dan pemilik; dan
+f. keuangan Debitur.
+            ---- Source File: SAL_POJK_SLIK.pdf - Page 11 - Rank 0.9819114804267883 ----
+            - 12 -
+BAB VII
+KETERBUKAAN KEPADA DEBITUR
+DAN INFORMASI DEBITUR
+Pasal 13
+Pelapor wajib memberitahukan kepada Debitur mengenai
+penyampaian Laporan Debitur yang bersangkutan ke
+dalam SLIK.
+Pasal 14
+(1) Pihak yang dapat meminta Informasi Debitur adalah:
+a. Pelapor;
+b. Debitur;
+c. LPIP; dan
+d. pihak lain.
+(2) Cakupan Informasi Debitur yang dapat diminta oleh
+pihak sebagaimana dimaksud pada ayat (1) adalah:
+a. identitas Debitur;
+b. pemilik dan pengurus bagi Debitur badan usaha;
+c. Fasilitas Penyediaan Dana yang diterima Debitur;
+d. agunan;
+e. penjamin;
+f. kualitas Fasilitas Penyediaan Dana; dan
+g. informasi lain.
+(3) Ketentuan lebih lanjut mengenai cakupan Informasi
+Debitur untuk masing-masing pihak sebagaimana
+dimaksud pada ayat (1) diatur dengan Surat Edaran
+OJK.
+Pasal 15
+(1) Pelapor yang telah memenuhi kewajiban pelaporan
+sebagaimana dimaksud dalam Pasal 4 dapat meminta
+Informasi Debitur sebagaimana dimaksud dalam
+Pasal 14 ayat (2) kepada OJK secara daring (online)
+melalui SLIK.
+(2) Permintaan Informasi Debitur secara daring (online)
+sebagaimana dimaksud pada ayat (1), dapat dilakukan"
+4,"Feedback: The response is mostly correct, accurate, and factual. It correctly identifies that a Pelapor who violates multiple regulations will be subject to administrative sanctions such as written reprimand or warning. It also accurately describes the specific sanctions for violating certain regulations. However, the response could be improved by providing more specific details about the sanctions for each violation mentioned. 
+
+[RESULT]: 4",Bagaimana sanksi yang berlaku untuk Pelapor yang melanggar ketentuan lebih dari satu dalam Peraturan ini?,"ChatCompletionChunk(id='3615', choices=[Choice(delta=ChoiceDelta(content='', function_call=None, role='assistant', tool_calls=None), finish_reason='stop', index=0, logprobs=None)], created=1718866390, model='qwen', object='chat.completion.chunk', system_fingerprint=None)","
+            ---- Source File: SAL_POJK_SLIK.pdf - Page 19 - Rank 0.9240244626998901 ----
+            - 20 -
+(3) Pelapor wajib memberikan informasi kepada OJK
+dalam rangka pelaksanaan pengawasan sebagaimana
+dimaksud pada ayat (1) dan ayat (2).
+BAB XII
+SANKSI
+Pasal 32
+Pelapor yang melanggar ketentuan sebagaimana dimaksud
+dalam Pasal 2 ayat (1), Pasal 4 ayat (1), Pasal 4 ayat (2),
+Pasal 4 ayat (4), Pasal 4 ayat (5), Pasal 6, Pasal 11 ayat (2),
+Pasal 13, Pasal 15 ayat (3), Pasal 15 ayat (4),
+Pasal 16 ayat (1), Pasal 17 ayat (1), Pasal 23 ayat (1),
+Pasal 23 ayat (2), Pasal 24 ayat (1), Pasal 24 ayat (3),
+Pasal 24 ayat (4), Pasal 27, Pasal 28, Pasal 29, Pasal 30
+ayat (1), Pasal 30 ayat (3), Pasal 30 ayat (4), dan/atau
+Pasal 31 ayat (3) dikenakan sanksi administratif berupa
+teguran tertulis atau peringatan tertulis.
+Pasal 33
+(1) Pelapor yang melanggar ketentuan sebagaimana
+dimaksud dalam Pasal 8 ayat (1) dan dinyatakan
+terlambat menyampaikan Laporan Debitur
+sebagaimana dimaksud dalam Pasal 9 ayat (1) atau
+Pasal 10 ayat (3) dikenakan sanksi administratif
+berupa:
+a. denda
+1. bagi Pelapor dengan aset paling sedikit
+Rp500.000.000.000,00 (lima ratus miliar
+rupiah), sebesar Rp1.000.000,00 (satu juta
+rupiah) per hari kerja keterlambatan; atau
+2. bagi Pelapor dengan aset kurang dari
+Rp500.000.000.000,00 (lima ratus miliar
+rupiah), sebesar Rp100.000,00 (seratus ribu
+rupiah) per hari kerja keterlambatan, dan
+b. penundaan pemberian Informasi Debitur sampai
+dengan Laporan Debitur diterima oleh OJK.
+            ---- Source File: SAL_POJK_SLIK.pdf - Page 20 - Rank 0.894203245639801 ----
+            - 21 -
+(2) Pelapor yang melanggar ketentuan sebagaimana
+dimaksud dalam Pasal 8 ayat (1) dan dinyatakan tidak
+menyampaikan Laporan Debitur sebagaimana
+dimaksud dalam Pasal 9 ayat (2) dikenakan sanksi
+administratif berupa:
+a. denda
+1. bagi Pelapor dengan aset paling sedikit
+Rp500.000.000.000,00 (lima ratus miliar
+rupiah), sebesar Rp50.000.000,00 (lima
+puluh juta rupiah) per bulan Laporan
+Debitur dan paling lama 12 (dua belas)
+bulan Laporan Debitur secara berturut-
+turut; atau
+2. bagi Pelapor dengan aset kurang dari
+Rp500.000.000.000,00 (lima ratus miliar
+rupiah), sebesar Rp5.000.000,00 (lima juta
+rupiah) per bulan Laporan Debitur dan
+paling lama 12 (dua belas) bulan Laporan
+Debitur secara berturut-turut; dan
+b. penundaan pemberian Informasi Debitur sampai
+dengan seluruh Laporan Debitur diterima oleh
+OJK.
+Pasal 34
+(1) Pelapor yang melanggar ketentuan sebagaimana
+dimaksud dalam Pasal 8 ayat (2) huruf a dan
+dinyatakan terlambat menyampaikan koreksi Laporan
+Debitur sebagaimana dimaksud dalam Pasal 9 ayat (4)
+atau Pasal 10 ayat (3) dikenakan sanksi administratif
+berupa denda:
+a. bagi Pelapor dengan aset paling sedikit
+Rp500.000.000.000,00 (lima ratus miliar rupiah),
+sebesar Rp50.000,00 (lima puluh ribu rupiah) per
+Debitur per hari kerja keterlambatan dan paling
+banyak Rp20.000.000,00 (dua puluh juta rupiah)
+per bulan Laporan Debitur dan paling lama
+            ---- Source File: SAL_POJK_SLIK.pdf - Page 22 - Rank 0.7846329212188721 ----
+            - 23 -
+rupiah), sebesar Rp50.000,00 (lima puluh
+ribu rupiah) per Debitur paling banyak
+Rp50.000.000,00 (lima puluh juta rupiah)
+per bulan Laporan Debitur dan paling lama
+keterlambatan 12 (dua belas) bulan Laporan
+Debitur secara berturut-turut; atau
+2. bagi Pelapor dengan aset kurang dari
+Rp500.000.000.000,00 (lima ratus miliar
+rupiah), sebesar Rp10.000,00 (sepuluh ribu
+rupiah) per Debitur paling banyak
+Rp10.000.000,00 (sepuluh juta rupiah) per
+bulan Laporan Debitur dan paling lama
+keterlambatan 12 (dua belas) bulan Laporan
+Debitur secara berturut-turut; dan
+b. penundaan pemberian Informasi Debitur sampai
+dengan seluruh koreksi Laporan Debitur diterima
+oleh OJK.
+Pasal 35
+Pelapor yang meminta dan menggunakan Informasi
+Debitur tidak sesuai dengan ketentuan sebagaimana
+dimaksud dalam Pasal 15 ayat (4) dikenakan sanksi
+administratif berupa denda sebesar Rp50.000.000,00 (lima
+puluh juta rupiah) untuk setiap Informasi Debitur.
+Pasal 36
+Pelapor sebagaimana dimaksud dalam Pasal 2, yang
+melanggar ketentuan sebagaimana dimaksud dalam
+Pasal 7 huruf b, Pasal 8 ayat (1), Pasal 8 ayat (2) huruf a,
+Pasal 8 ayat (2) huruf b, Pasal 9 ayat (1), Pasal 9 ayat (2),
+Pasal 9 ayat (4), Pasal 10 ayat (3), dan Pasal 15 ayat (4),
+selain dikenakan sanksi administratif berupa teguran
+tertulis atau peringatan tertulis, denda, dan/atau sanksi
+administratif lainnya sebagaimana dimaksud dalam
+Pasal 32, Pasal 33, Pasal 34, dan/atau Pasal 35, dapat
+dikenakan sanksi administratif berupa:
+a. penurunan tingkat kesehatan;"
+3,"Feedback: The response is somewhat correct, accurate, and factual. It provides a general idea of how the public can participate in data privacy protection, but it lacks specific details from the given context. The response introduces new information about the public's role being both direct and indirect, which is not explicitly mentioned in the context.
+[RESULT]: 3",Bagaimana masyarakat dapat berperan dalam Pelindungan Data Pribadi?,"ChatCompletionChunk(id='3634', choices=[Choice(delta=ChoiceDelta(content='', function_call=None, role='assistant', tool_calls=None), finish_reason='stop', index=0, logprobs=None)], created=1718866429, model='qwen', object='chat.completion.chunk', system_fingerprint=None)","
+            ---- Source File: 2022uu27.pdf - Page 27 - Rank 0.9901425838470459 ----
+            PRESIDEN
+REPUELIK INDONESIA
+-24-
+n melakukan pemeriksaan dan penelusuran terhadap
+sistem elektronik, sarana, ruang, dan/ atau tempat
+yang digunakan Pengendali Data Pribadi dan/atau
+Prosesor Data Pribadi, termasuk memperoleh akses
+terhadap data dan/atau menunjuk pihak ketiga; dan
+o meminta bantuan hukum kepada kejaksaan dalam
+penyelesaian sengketa Pelindungan Data Pribadi.
+Pasal 61
+Ketentuan mengenai tata cara pelaksanaan wewenang
+lembaga sebagaimana dimaksud dalam Pa6al 60 diatur
+dalam Peraturan Pemerintah.
+BAB X
+KERJA SAMA INTERNASIONAL
+Pasal 62
+(1) Kerja sama internasional dilakukan oleh Pemerintah
+dengan pemerintah negara lain atau Organisasi
+Internasional terkait dengan Pelindungan Data
+Pribadi.
+(2) Kerja sama internasional dalam rangka pelaksanaan
+Undang-Undang ini dilaksanakan sesuai dengan
+ketentuan peraturan perundang-undangan dan
+prinsip hukum internasional.
+BAB xI
+PARTISIPASI MASYARAKAT
+Pasal 63
+(1) Masyarakat dapat berperan baik secara langsung
+maupun tidak langsung dalam mendukung
+terselenggaranya Pelindungan Data Pribadi.
+(2) Pelaksanaan peran sebagaimana dimaksud pada
+ayat (1) dapat dilakukan melalui pendidikan,
+pelatihan, advokasi, sssialis4si, dan/ atau pengawasan
+sesuai dengan ketentuan peraturan perundang-
+undangan.
+...
+BABxII
+SK No 155229 A
+            ---- Source File: 2022uu27.pdf - Page 35 - Rank 0.9898249506950378 ----
+            PRESIDEN
+ELIK INDONESIA
+-2-
+Perumusan aturan tentang Pelindungan Data Pribadi dapat dipahami
+karena adanya kebutuhan untuk melindungi hak individu di dalam
+masyarakat sehubungan dengan pemrosesan Data Pribadi baik yang
+dilakukan secara elektronik dan nonelektronik menggunakan perangkat olah
+data. Pelindungan yang memadai atas Data Pribadi akan mampu memberikan
+kepercayaan masyarakat untuk menyediakan Data Pribadi guna berbagai
+kepentingan masyarakat yang lebih besar tanpa disalahgunakan atau
+melanggar hak pribadinya. Dengan demikian, pengaturan ini akan
+menciptakan keseimbangan antara hak individu dan masyarakat yang
+diwakili kepentingannya oleh negara. Pengaturan tentang Pelindungan Data
+Pribadi ini akan memberikan kontribusi yang besar terhadap terciptanya
+ketertiban dan kemajuan dalam masyarakat informasi.
+Untuk mengurangi tumpang tindih ketentuan tentang Pelindungan Data
+Pribadi maka pada dasarnya ketentuan dalam Undang-Undang ini adalah
+standar Pelindungan Data Pribadi secara urnurn, baik yang diproses sebagian
+atau keseluruhan dengan cara elektronik dan nonelektronik, dimana masing-
+masing sektor dapat menerapkan Pelindungan Data Pribadi sesuai
+karakteristik sektor yang Pengaturan Data
+Pribadi bertujuan antara lain melindungi dan menjamin hak dasar warga
+negara terkait dengan pelindungan diri pribadi, menjamin masyarakat untuk
+mendapatkan pelayanan dari Korporasi, Badan Publik, Organisasi
+Internasional, dan Pemerintah, mendorong pertumbuhan ekonomi digital dan
+industri teknologi informasi dan komunikasi, dan mendukung peningkatan
+daya saing industri dalam negeri.
+II.
+PASALDEMIPASAL
+Pasal I
+Cukupjelas.
+Pasal 2
+Cukupjelas.
+Pasal 3
+Hurufa
+Yang dimaksud dengan ""asas pelindungan"" adalah bahwa setiap
+pemrosesErn Data Pribadi dilakukan dengan memberikan
+pelindungan kepada Subjek Data Pribadi atas Data Pribadinya
+dan Data Pribadi tersebut agar tidak disalahgunakan.
+Hurufb. .
+.
+SK No 155237 A
+            ---- Source File: 2022uu27.pdf - Page 34 - Rank 0.8037130832672119 ----
+            PRESlDEN
+REPUBLIK INDONESIA
+PENJEI,ASAN
+ATAS
+UNDANG-UNDANG REPUBUK INDONESI,A
+NOMOR 27 TAHVN 2022
+TET\ITANG
+PELINDUNGAN DATA PRIBADI
+I UMUM
+Ferkembangan teknologi informasi dan komurikasi yang melaju dengan
+pesat telah menimbulkan berbagai peluang dan tantangan. Teknologi informasi
+memunglinkan manusia untuk saling terhubung tanpa mengenal batas wilayah
+sehingga
+negara salah satu faktor pendorong globalisasi. Berbagai
+selrtor kehidupan telah memanfaatkan sistem teknologi informasi, seperti
+peryrelengaraan ele&onic @mmet@ (e-ammere) dalam sektor
+perUagangan/bisnis, eledrunic dtution (edtt@lion) daJarla bidang perdidikan,
+eledronic hmlth (e-leaftfl dalam bidang kesehatan, ele&onic gouqrunent
+(egovenunent) dalam bidang pemerintahan, serta teknologi informasi yang
+dimanfaatkan dalam bidang lainnya. Pemanfaatan teknologi informasi tersebut
+mengakibatkan Data Pribadi seseorang sanga.t mudah untuk dikumpulkan dan
+dipindahkan dari sahr pihak ke phak lain tanpa sepengetatnran Subjek Data
+Pribadi, sehingga mengancam hak konstitusional Subjek Data Pribadi.
+Felindungan Data Pribadi masuk dalam pelindungan hak asasi manusia
+Dengan demikian, pengaturan menyangkut Data Pribadi merupakan manifestasi
+pengakuan dan pelindungan atas hak dasar manusia. Keberadaan suatu
+Undang-Undang tentang Pelindungan Data Pribadi suahr
+keharusan yang tidak dapat ditunda lagl karena sanga.t mendesak bagi berbagai
+kepentingan nasional. Fergaulan intemasional Indonesia turut menuntut
+adanya Felindungan Data Pribadi. Felindungan tersebut dapa.t memperlancar
+perdagangan, industri, dan investasi yang bersifat transnasional.
+Pribadi
+Undang-Undang tentang Felindungan Data amanat
+dari Pasal2SG ayat (1) Undang-Undang Dasar Negara Republik Indonesia Tahun
+1945 yang menyatakan bahwa, ""Setiap orang berhak atas perlindungan diri
+pribadi, keluarga, kehormatan, martabat, dan harta benda yang di bawah
+kekuasaannya, serta berhak atas rasa aman dan pelindungan dari ancaman"
